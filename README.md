@@ -1,0 +1,1 @@
+This is a first project initially only using HTML.  I will be adding more to this project in coming lessons, when I learn to style the website with CSS. 
